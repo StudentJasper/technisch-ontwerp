@@ -123,4 +123,5 @@ Deze link bevat een flask en jinja framework.
 
 - https://v4-alpha.getbootstrap.com/examples/  
 
+
 Voorbeelden van mogelijke opzetten voor onder andere een navigatiebalk en startscherm.
